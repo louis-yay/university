@@ -45,4 +45,6 @@ CM4 Archi des ordi
 
 [[Prog Sys/0. Introduction]]
 "Je vous assure que vous avez pas envie de parler à une sourie"
-- 
+
+[[4. Descripteurs]]
+"12 c'est vachement cavalier"  - 16/09

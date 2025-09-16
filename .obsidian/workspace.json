@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3c10e8197143115e",
+        "id": "65cd6e93528d79a4",
         "type": "tabs",
         "children": [
           {
-            "id": "7e02c5fa79d12274",
+            "id": "74b5180e0a8a6e35",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prog Sys/3. Accès arbitraire de fichier.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3. Accès arbitraire de fichier"
+              "title": "New tab"
             }
           }
         ]
@@ -140,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog Sys/3. Accès arbitraire de fichier.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Accès arbitraire de fichier"
+              "title": "Outline"
             }
           },
           {
@@ -178,12 +173,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e02c5fa79d12274",
+  "active": "74b5180e0a8a6e35",
   "lastOpenFiles": [
-    "Prog Sys/2. Fichiers.md",
     "Prog Sys/3. Accès arbitraire de fichier.md",
-    "Prog Sys/1. Gestion des privilèges.md",
+    "Prog Sys/4. Descripteurs.md",
+    "Prog Sys/5. Memory Maped File.md",
+    "Quotes.md",
     "Prog Sys/0. Introduction.md",
+    "Prog Sys/2. Fichiers.md",
+    "Prog Sys/1. Gestion des privilèges.md",
     "Prog Fonctionelle/1. Requêtes.md",
     "Prog Fonctionelle/2. Type construits.md",
     "Prog Fonctionelle/3. Les complexes.md",
@@ -192,7 +190,6 @@
     "Prog Fonctionelle/TDM",
     "Prog Fonctionelle/Untitled.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Prog Sys/TDM",
     "Prog Fonctionelle/0. Introduction.md",
     "punpun.png",
@@ -201,7 +198,6 @@
     "Untitled.canvas",
     "L1/Bases de données et prog web/Note de cours/1 - Serveur de pages Web.md",
     "Prog Sys/Images/Image collée.png",
-    "Quotes.md",
     "Prog Sys/Untitled.canvas",
     "Prog Sys/Images",
     "Réponses noé.md",
