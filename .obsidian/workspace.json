@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b82b4b17ff2e9072",
+        "id": "3c10e8197143115e",
         "type": "tabs",
         "children": [
           {
-            "id": "7551ccf2716cb195",
+            "id": "7e02c5fa79d12274",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Prog Sys/3. Accès arbitraire de fichier.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3. Accès arbitraire de fichier"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Prog Sys/3. Accès arbitraire de fichier.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 3. Accès arbitraire de fichier"
             }
           },
           {
@@ -163,6 +168,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -172,6 +178,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d109d9a16c6d0e9",
-  "lastOpenFiles": []
+  "active": "7e02c5fa79d12274",
+  "lastOpenFiles": [
+    "Prog Sys/2. Fichiers.md",
+    "Prog Sys/3. Accès arbitraire de fichier.md",
+    "Prog Sys/1. Gestion des privilèges.md",
+    "Prog Sys/0. Introduction.md",
+    "Prog Fonctionelle/1. Requêtes.md",
+    "Prog Fonctionelle/2. Type construits.md",
+    "Prog Fonctionelle/3. Les complexes.md",
+    "Prog Fonctionelle/TDM/2. Fonctions et récursives.md",
+    "Prog Fonctionelle/TDM/1.Prise en main.md",
+    "Prog Fonctionelle/TDM",
+    "Prog Fonctionelle/Untitled.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Prog Sys/TDM",
+    "Prog Fonctionelle/0. Introduction.md",
+    "punpun.png",
+    "Prog Sys/Images/privilegeproc.png",
+    "L2/POO/1. Paradigme Objet.md",
+    "Untitled.canvas",
+    "L1/Bases de données et prog web/Note de cours/1 - Serveur de pages Web.md",
+    "Prog Sys/Images/Image collée.png",
+    "Quotes.md",
+    "Prog Sys/Untitled.canvas",
+    "Prog Sys/Images",
+    "Réponses noé.md",
+    "Prog Sys",
+    "Prog.md",
+    "Prog Fonctionelle",
+    "Reu de rentrée.md",
+    "L2/Archi des ordi/TM/TM1.md",
+    "L2/Archi des ordi/TM/tm_03.pdf"
+  ]
 }
